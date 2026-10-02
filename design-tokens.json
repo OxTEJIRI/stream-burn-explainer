@@ -1,0 +1,29 @@
+{
+  "name": "stream-burn-explainer",
+  "color": {
+    "bg": "#07080C",
+    "bgRaised": "#10131A",
+    "bgInset": "#0C0E14",
+    "line": "#232836",
+    "text": "#F4F6FB",
+    "textMuted": "#9AA3B5",
+    "textFaint": "#6E778A",
+    "blue": "#2F6BFF",
+    "blueDeep": "#1937F9",
+    "burn": "#FF5A36",
+    "burnSoft": "#FF8A62",
+    "remain": "#3DDC97",
+    "warn": "#F5C16C"
+  },
+  "type": {
+    "display": "Geist, Inter, ui-sans-serif, system-ui",
+    "mono": "Geist Mono, ui-monospace, SFMono-Regular, Menlo, monospace",
+    "hero": "clamp(40px, 6vw, 72px)",
+    "h2": "28px",
+    "body": "16px",
+    "label": "12px"
+  },
+  "space": [4, 8, 12, 16, 24, 32, 48, 72],
+  "radius": { "card": 16, "pill": 999 },
+  "maxWidth": 1120
+}
